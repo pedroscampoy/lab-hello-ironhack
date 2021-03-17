@@ -1,0 +1,26 @@
+.Intro {
+  background-color: #1f2635;
+  color: #fff;
+  text-align: left;
+  padding: 12px 3rem 48px;
+}
+
+.Intro .Intro-texts {
+  width: 460px;
+}
+
+.Intro .Intro-texts .Intro-title {
+  font-size: 72px;
+  margin-bottom: 12px;
+}
+
+.Intro .Intro-texts .Intro-description {
+  font-size: 24px;
+  font-weight: lighter;
+  display: inline-block;
+  margin-bottom: 48px;
+}
+
+.Intro .Intro-texts .Intro-description span {
+  display: block;
+}
